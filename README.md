@@ -8,11 +8,17 @@ This is Offset for Arena Of Valor // Rov-Aov
 --0x1F21D07 // No Skill Cooldown (Allian)
 
 #Syntax Use Case
+
 #Memory Offset Patch
+
 OBFUSCATE{} else if {
 MemoryPatch(/*Offset*/)'}
+
 #LibPatch(Game)
+
 (libPatch)(/*Libname*/orlib32.so)(/*HexOrOffset*/)(ClearResult)
+
 #LibPatch (Original)
+
 OBFUSCATE{} else if {LibPatch=>(Offset)=>(Hex) else if else}
 
