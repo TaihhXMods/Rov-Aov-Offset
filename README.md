@@ -22,6 +22,8 @@ MemoryPatch(/*Offset*/)'}
 
 OBFUSCATE{} else if {LibPatch=>(Offset)=>(Hex) else if else}
 
-#╭───────────────────╮
+# ╭───────────────────╮
   𝑆ℎ𝑎𝑟𝑒 𝑊𝑖𝑡ℎ 𝐶𝑟𝑒𝑑𝑖𝑡 𝑁𝑍𝑌𝑇𝑈𝑍𝐿𝐸𝑇
+  𝑇𝑒𝑙𝑒𝑔𝑟𝑎𝑚 : @TaihhMods
+  𝐺𝑟𝑜𝑢𝑝 : @ModdingCrackingTools
 # ╰───────────────────╯
